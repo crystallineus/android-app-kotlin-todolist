@@ -1,4 +1,6 @@
-# TO do list app
+# To do list app
+
+This app allows a user to create and delete a to do list. The list is stored in the device's memory.
 
 ## Tech stack
 * [Andriod](https://developer.android.com/studio/intro)
